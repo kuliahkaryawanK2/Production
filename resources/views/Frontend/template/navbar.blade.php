@@ -12,7 +12,7 @@
             <!-- ***** Menu Start ***** -->
             <ul class="nav">
               <li class="scroll-to-section"><a href="{{ url('/') }}" class="active {{ (request()->is('/*')) ?'active' : '' }}">Home</a></li>
-              <li class="scroll-to-section"><a href="{{ url('tentang') }}" >About Us</a></li>
+              <li class="scroll-to-section"><a href="{{ url('tentang') }}"  >About Us</a></li>
               <li class="scroll-to-section"><a href="{{ url('layanan') }}">Services</a></li>
               <li class="scroll-to-section"><a href="{{ url('portofolio') }}">Portfolio</a></li>
               <li class="scroll-to-section"><a href="{{ url('blog') }}">Blog</a></li> 

@@ -11,41 +11,30 @@
               <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
               <h5>
                 <div class="waviy">
-                  <span style="--i:1">S</span>
+                  <span style="--i:1">W</span>
                   <span style="--i:2">E</span>
                   <span style="--i:3">L</span>
-                  <span style="--i:4">A</span>
-                  <span style="--i:5">M</span>
-                  <span style="--i:6">A</span>
-                  <span style="--i:7">T</span>
-                </div></h5>
-                <h5>
-                <div class="waviy">
-                  <span style="--i:1">D</span>
-                  <span style="--i:2">A</span>
-                  <span style="--i:3">T</span>
-                  <span style="--i:4">A</span>
-                  <span style="--i:5">N</span>
-                  <span style="--i:6">G</span>
+                  <span style="--i:4">C</span>
+                  <span style="--i:5">O</span>
+                  <span style="--i:6">M</span>
+                  <span style="--i:7">E</span>
                 </div></h5>
                 <h2>Solusi dari <span>Semua Masalah </span><em>Marketing</em> Anda</h2>
-                <p> Konsultasikan masalah Anda di <a rel="nofollow" href="{{ url('/')}}" target="_parent">Jasa Marketing</a>, Kami memberikan solusi yang terbaik untuk Anda.</p>
-                <!-- <form id="search" action="#" method="GET">
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur consectetur adipisci voluptatem tempora, perspiciatis minima fugiat nesciunt illo eum sed id pariatur recusandae ipsa obcaecati quisquam itaque magnam rerum. Modi! <a rel="nofollow" href="https://templatemo.com/page/1" target="_parent">TemplateMo</a>.</p>
+                <form id="search" action="#" method="GET">
                   <fieldset>
                     <input type="address" name="address" class="email" placeholder="Your website URL..." autocomplete="on" required>
                   </fieldset>
                   <fieldset>
                     <button type="submit" class="main-button">Analyze Site</button>
                   </fieldset>
-                </form> -->
-                <div class="main-red-button">
-                  <a href="{{ url('tentang') }}">Lebih Lanjut</a>
-                </div>
+                </form>
               </div>
             </div>
             <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="/Frontend/images/banner-right.png" alt="team meeting">
+                <img src="images/banner-right-image.png" alt="team meeting">
               </div>
             </div>
           </div>
@@ -59,7 +48,7 @@
       <div class="row">
         <div class="col-lg-4">
           <div class="left-image wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <img src="/Frontend/images/about-left-image.png" alt="person graphic">
+            <img src="images/about-left-image.png" alt="person graphic">
           </div>
         </div>
         <div class="col-lg-8 align-self-center">
@@ -68,50 +57,47 @@
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.5s">
                   <div class="icon">
-                    <img src="/Frontend/images/service-icon-01.png" alt="reporting">
+                    <img src="images/service-icon-01.png" alt="reporting">
                   </div>
                   <div class="right-text">
-                    <h4>Web Design</h4>
-                    <p>Design Website dengan template yang telah kami sediakan.</p>
+                    <h4>Data Analysis</h4>
+                    <p>Lorem ipsum dolor sit amet, ctetur aoi adipiscing eliter</p>
                   </div>
                 </div>
               </div>
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.7s">
                   <div class="icon">
-                    <img src="/Frontend/images/service-icon-02.png" alt="">
+                    <img src="images/service-icon-02.png" alt="">
                   </div>
                   <div class="right-text">
-                    <h4>Digital Marketing</h4>
-                    <p>Melakukan pemasaran product ke seluruh Sosial Media.</p>
+                    <h4>Data Reporting</h4>
+                    <p>Lorem ipsum dolor sit amet, ctetur aoi adipiscing eliter</p>
                   </div>
                 </div>
               </div>
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="0.9s">
                   <div class="icon">
-                    <img src="/Frontend/images/service-icon-03.png" alt="">
+                    <img src="images/service-icon-03.png" alt="">
                   </div>
                   <div class="right-text">
-                    <h4>Design Social Media</h4>
-                    <p>Membuat design sosial media yang Menarik dan Eksklusif</p>
+                    <h4>Web Analytics</h4>
+                    <p>Lorem ipsum dolor sit amet, ctetur aoi adipiscing eliter</p>
                   </div>
                 </div>
               </div>
               <div class="col-lg-6">
                 <div class="item wow fadeIn" data-wow-duration="1s" data-wow-delay="1.1s">
                   <div class="icon">
-                    <img src="/Frontend/images/service-icon-04.png" alt="">
+                    <img src="images/service-icon-04.png" alt="">
                   </div>
                   <div class="right-text">
-                    <h4>Branding</h4>
-                    <p>Membuat product bisnis Anda menjadi lebih Profesional</p>
+                    <h4>SEO Suggestions</h4>
+                    <p>Lorem ipsum dolor sit amet, ctetur aoi adipiscing eliter</p>
                   </div>
                 </div>
               </div>
-              <div class="main-blue-button">
-                  <a href="{{ url('tentang') }}">Read More</a>
-                </div>
             </div>
           </div>
         </div>
@@ -124,18 +110,18 @@
       <div class="row">
         <div class="col-lg-6 align-self-center  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s">
           <div class="left-image">
-            <img src="/Frontend/images/services-left-image.png" alt="">
+            <img src="/images/services-left-image.png" alt="">
           </div>
         </div>
         <div class="col-lg-6 wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.2s">
           <div class="section-heading">
-            <h2>Grow your <em>Website</em> service &amp; <span>Design</span> Social Media</h2>
-            <p>Jasa Marketing merupakan tempat Konsultasi Bisnis Anda, dimana kami dapat melakukan Branding, Pembuatan Website, Design Sosial Media, dan Digital Marketing. Kami akan memberikan solusi terbaik untuk bisnis anda agar menjadi lebih Profesional</p>
+            <h2>Grow your website with our <em>SEO</em> service &amp; <span>Project</span> Ideas</h2>
+            <p>Space Dynamic HTML5 template is free to use for your website projects. However, you are not permitted to redistribute the template ZIP file on any CSS template collection websites. Please contact us for more information. Thank you for your kind cooperation.</p>
           </div>
           <div class="row">
             <div class="col-lg-12">
               <div class="first-bar progress-skill-bar">
-                <h4>Website Design</h4>
+                <h4>Website Analysis</h4>
                 <span>84%</span>
                 <div class="filled-bar"></div>
                 <div class="full-bar"></div>
@@ -143,7 +129,7 @@
             </div>
             <div class="col-lg-12">
               <div class="second-bar progress-skill-bar">
-                <h4>Branding</h4>
+                <h4>SEO Reports</h4>
                 <span>88%</span>
                 <div class="filled-bar"></div>
                 <div class="full-bar"></div>
@@ -151,7 +137,7 @@
             </div>
             <div class="col-lg-12">
               <div class="third-bar progress-skill-bar">
-                <h4>Digital Marketing</h4>
+                <h4>Page Optimizations</h4>
                 <span>94%</span>
                 <div class="filled-bar"></div>
                 <div class="full-bar"></div>
@@ -177,11 +163,11 @@
           <a href="#">
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.3s">
               <div class="hidden-content">
-                <h4>Digital Marketing</h4>
-                <p>Melakukan pemasaran product ke seluruh Sosial Media.</p>
+                <h4>SEO Analysis</h4>
+                <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="/Frontend/images/porto-1.png" alt="">
+                <img src="images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -190,11 +176,11 @@
           <a href="#">
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.4s">
               <div class="hidden-content">
-                <h4>Website Design</h4>
-                <p>Design Website dengan template yang telah kami sediakan.</p>
+                <h4>Website Reporting</h4>
+                <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="/Frontend/images/porto-2.png" alt="">
+                <img src="images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -203,11 +189,11 @@
           <a href="#">
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.5s">
               <div class="hidden-content">
-                <h4>Design Social Media</h4>
-                <p>Membuat design sosial media yang Menarik dan Eksklusif.</p>
+                <h4>Performance Tests</h4>
+                <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="/Frontend/images/porto-3.png" alt="">
+                <img src="images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -216,11 +202,11 @@
           <a href="#">
             <div class="item wow bounceInUp" data-wow-duration="1s" data-wow-delay="0.6s">
               <div class="hidden-content">
-                <h4>Branding</h4>
-                <p>Membuat product bisnis Anda menjadi lebih Profesional.</p>
+                <h4>Data Analysis</h4>
+                <p>Lorem ipsum dolor sit ameti ctetur aoi adipiscing eto.</p>
               </div>
               <div class="showed-content">
-                <img src="/Frontend/images/porto-4.png" alt="">
+                <img src="images/portfolio-image.png" alt="">
               </div>
             </div>
           </a>
@@ -234,7 +220,7 @@
       <div class="row">
         <div class="col-lg-6 offset-lg-3">
           <div class="section-heading  wow bounceIn" data-wow-duration="1s" data-wow-delay="0.2s">
-            <h2>Our<span> Partners</span></h2>
+            <h2>Our<span>Partners</span></h2>
           </div>
         </div>
       </div>
@@ -254,14 +240,14 @@
         </div>
         <div class="col-lg-6 wow fadeInDown" data-wow-duration="1s" data-wow-delay="0.25s">
           <div class="top-dec">
-            <img src="/Frontend/images/blog-dec.png" alt="">
+            <img src="images/blog-dec.png" alt="">
           </div>
         </div>
       </div>
       <div class="row">
         <div class="col-lg-6 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.25s">
           <div class="left-image">
-            <a href="#"><img src="/Frontend/images/big-blog-thumb.jpg" alt="Workspace Desktop"></a>
+            <a href="#"><img src="images/big-blog-thumb.jpg" alt="Workspace Desktop"></a>
             <div class="info">
               <div class="inner-content">
                 <ul>
@@ -269,7 +255,7 @@
                   <li><i class="fa fa-users"></i> TemplateMo</li>
                   <li><i class="fa fa-folder"></i> Branding</li>
                 </ul>
-                <a href="{{ url('/blog/details') }}"><h4>SEO Agency &amp; Digital Marketing</h4></a>
+                <a href="#"><h4>SEO Agency &amp; Digital Marketing</h4></a>
                 <p>Lorem ipsum dolor sit amet, consectetur and sed doer ket eismod tempor incididunt ut labore et dolore magna...</p>
                 <div class="main-blue-button">
                   <a href="#">Discover More</a>
@@ -284,31 +270,31 @@
               <li>
                 <div class="left-content align-self-center">
                   <span><i class="fa fa-calendar"></i> 18 Mar 2021</span>
-                  <a href="{{ url('/blog/details') }}"><h4>New Websites &amp; Backlinks</h4></a>
+                  <a href="#"><h4>New Websites &amp; Backlinks</h4></a>
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="/Frontend/images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
               <li>
                 <div class="left-content align-self-center">
                   <span><i class="fa fa-calendar"></i> 14 Mar 2021</span>
-                  <a href="{{ url('/blog/details') }}}"><h4>SEO Analysis &amp; Content Ideas</h4></a>
+                  <a href="#"><h4>SEO Analysis &amp; Content Ideas</h4></a>
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="/Frontend/images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
               <li>
                 <div class="left-content align-self-center">
                   <span><i class="fa fa-calendar"></i> 06 Mar 2021</span>
-                  <a href="{{ url('/blog/details') }}"><h4>SEO Tips &amp; Digital Marketing</h4></a>
+                  <a href="#"><h4>SEO Tips &amp; Digital Marketing</h4></a>
                   <p>Lorem ipsum dolor sit amsecteturii and sed doer ket eismod...</p>
                 </div>
                 <div class="right-image">
-                  <a href="#"><img src="/Frontend/images/blog-thumb-01.jpg" alt=""></a>
+                  <a href="#"><img src="images/blog-thumb-01.jpg" alt=""></a>
                 </div>
               </li>
             </ul>
@@ -334,7 +320,7 @@
                         <div class="card-header" id="faqHeading-1">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-1" data-aria-expanded="true" data-aria-controls="faqCollapse-1">
-                                    <span class="badge">1</span>Apa itu Jasa Marketing ?
+                                    <span class="badge">1</span>What is Lorem Ipsum?
                                 </h5>
                             </div>
                         </div>
@@ -348,7 +334,7 @@
                         <div class="card-header" id="faqHeading-2">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-2" data-aria-expanded="false" data-aria-controls="faqCollapse-2">
-                                    <span class="badge">2</span> Produk apa saja yang ada di Jasa Marketing ?
+                                    <span class="badge">2</span> Where does it come from?
                                 </h5>
                             </div>
                         </div>
@@ -362,7 +348,7 @@
                         <div class="card-header" id="faqHeading-3">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-3" data-aria-expanded="false" data-aria-controls="faqCollapse-3">
-                                    <span class="badge">3</span>Kenapa harus memilih Jasa Marketing ?
+                                    <span class="badge">3</span>Why do we use it?
                                 </h5>
                             </div>
                         </div>
@@ -376,13 +362,27 @@
                         <div class="card-header" id="faqHeading-4">
                             <div class="mb-0">
                                 <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-4" data-aria-expanded="false" data-aria-controls="faqCollapse-4">
-                                    <span class="badge">4</span> Apa keuntungan memilih Jasa Marketing ?
+                                    <span class="badge">4</span> Where can I get some?
                                 </h5>
                             </div>
                         </div>
                         <div id="faqCollapse-4" class="collapse" aria-labelledby="faqHeading-4" data-parent="#accordion">
                             <div class="card-body">
                                 <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-header" id="faqHeading-5">
+                            <div class="mb-0">
+                                <h5 class="faq-title" data-toggle="collapse" data-target="#faqCollapse-5" data-aria-expanded="false" data-aria-controls="faqCollapse-5">
+                                    <span class="badge">5</span> What is Lorem Ipsum?
+                                </h5>
+                            </div>
+                        </div>
+                        <div id="faqCollapse-5" class="collapse" aria-labelledby="faqHeading-5" data-parent="#accordion">
+                            <div class="card-body">
+                                <p> It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing</p>
                             </div>
                         </div>
                     </div>
@@ -434,7 +434,7 @@
               </div>
             </div>
             <div class="contact-dec">
-              <img src="/Frontend/images/contact-decoration.png" alt="">
+              <img src="images/contact-decoration.png" alt="">
             </div>
           </form>
         </div>

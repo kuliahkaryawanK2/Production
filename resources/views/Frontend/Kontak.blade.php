@@ -6,17 +6,18 @@
       <div class="row">
         <div class="col-lg-12">
           <div class="row">
-            <div class="col-lg-12 align-self-center">
+            <div class="col-lg-6 align-self-center">
               <div class="left-content header-text wow fadeInLeft" data-wow-duration="1s" data-wow-delay="1s">
                 <h6>Kontak Kami</h6>
                 <h2>Solusi dari <span>Semua Masalah </span><em>Marketing</em> Anda</h2>
+                <p>Jasa Marketing merupakan Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eligendi cupiditate voluptatum voluptas ipsa nulla eum, in porro. Porro, odio cumque vitae maiores asperiores perspiciatis iste ipsam qui doloribus! Placeat, impedit. <a rel="nofollow" href="" target="_parent">Jasa Marketing</a>.</p>
               </div>
             </div>
-            <!-- <div class="col-lg-6">
+            <div class="col-lg-6">
               <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                <img src="/Frontend/images/banner-right-image.png" alt="team meeting">
+                <img src="images/banner-right-image.png" alt="team meeting">
               </div>
-            </div> -->
+            </div>
           </div>
         </div>
       </div>
@@ -28,10 +29,10 @@
       <div class="row">
         <div class="col-lg-6 align-self-center wow fadeInLeft" data-wow-duration="0.5s" data-wow-delay="0.25s">
           <div class="section-heading">
-            <h2>Kontak Kami untuk konsultasikan bisnis anda.</h2>
-           
+            <h2>Feel Free To Send Us a Message About Your Website Needs</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doer ket eismod tempor incididunt ut labore et dolores</p>
             <div class="phone-info">
-              <h4>Jika ada pertanyaan, Hubungi: <span><i class="fa fa-phone"></i> <a href="#">0812-1119-1119</a></span></h4>
+              <h4>For any enquiry, Call Us: <span><i class="fa fa-phone"></i> <a href="#">010-020-0340</a></span></h4>
             </div>
           </div>
         </div>
@@ -65,7 +66,7 @@
               </div>
             </div>
             <div class="contact-dec">
-              <img src="/Frontend/images/contact-decoration.png" alt="">
+              <img src="images/contact-decoration.png" alt="">
             </div>
           </form>
         </div>
